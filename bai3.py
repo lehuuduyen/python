@@ -1,6 +1,6 @@
 import cv2;
 
-img	=	cv2.imread('dave3.jpg',1);
+img	=	cv2.imread('digits.jpg',1);
 
 for i in range(180,340):
 	print(i);
